@@ -1,0 +1,88 @@
+.nav-icon{
+    color: white;
+}
+.nav-icon:hover{
+    color: rgb(160, 6, 31);
+}
+.txt-image{
+    font-family: 'Anton', sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
+.headings{
+    position: relative;
+  }
+  .headings h2{
+    font-size: 100px;
+    color: #e7dfdf;
+    font-family: 'Anton', sans-serif;
+  font-family: 'Arimo', sans-serif;
+  font-family: 'Bungee Inline', cursive;
+  font-family: 'Racing Sans One', cursive;
+  font-family: 'Rubik Mono One', sans-serif; 
+  }
+  .headings h3{
+    font-size: 65px;
+    position: absolute;
+    font-family: 'Acme', sans-serif;
+  }
+  .line{
+  height: 0.5px;
+    width:3%;
+    background-color: black;
+}
+
+#about:hover .line{
+     width: 8%;
+}
+ .about-text-color-p {
+    font-size: 18px;
+    color: #999;
+ }
+ .about-info{
+    font-size: 14px;
+    color: #666;
+ }
+ h5:hover{
+      color: rgba(242, 84, 84, 0.85) ;
+    }
+    .question{
+        font-size: 50px;
+    }
+    button{
+        width: 15%;
+        height: 55px;
+    }
+    .fas,.far{
+        color: rgba(242, 84, 84, 0.85) ;
+    }
+    .form-control:hover{
+        color: rgba(242, 84, 84, 0.85) ;
+    }
+    .fa-paper-plane
+    {
+        color: white;
+    }
+    .btn{
+        width: 150px;
+
+    }
+    .get-in-touch-line{
+        height:1px;
+        width: 100%;
+        background-color:rgb(241, 232, 232);
+    }
+    .last-section{
+        height:800px;
+    }
+     .img-zoomin img{
+      width: 100%;       
+      transition: all 1s ease-in-out;
+     }
+     .card-img{
+         overflow: hidden;
+     }
+    .img-zoomin:hover img{
+        transform: scale(1.4);
+        
+    }
